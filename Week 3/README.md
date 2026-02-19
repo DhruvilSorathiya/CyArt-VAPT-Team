@@ -48,4 +48,9 @@ This task focused on performing vulnerability assessment and penetration testing
 ## Outcome
 The task demonstrated how multiple vulnerabilities can be combined to achieve full system compromise within a controlled environment. The exercise reinforced practical exploitation skills, secure coding awareness, and professional reporting practices aligned with industry penetration testing workflows.
 
+## Demonstration Video
+A demonstration of DVWA login bypass showing unauthorized authentication without credentials can be accessed here:
+
+🔗 https://drive.google.com/file/d/1HRzz-74TAxmut0QR3tniUqxYslU9DzER/view?usp=sharing
+
 ---
